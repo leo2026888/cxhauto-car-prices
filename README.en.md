@@ -4,6 +4,8 @@ Query China’s new- and used-car market prices and available historical price t
 
 Brand website: [CXH AUTO](https://cxhauto.com/).
 
+International setup page: [AI / MCP — China car price trends](https://cxhauto.com/mcp?lang=en), with a copyable service URL, configuration and example prompt. [Information for AI assistants](https://cxhauto.com/llms.txt).
+
 **Public beta.** [Official installation](https://www.cxhcf.com/mcp/workbuddy) · [Web query](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/cards.html) · [中文](README.md)
 
 Remote MCP endpoint (Streamable HTTP):

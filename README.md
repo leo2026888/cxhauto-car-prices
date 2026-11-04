@@ -6,6 +6,8 @@
 
 品牌官网：[CXH AUTO 车小花国际](https://cxhauto.com/)
 
+国际站接入入口：[AI / MCP · 中国汽车行情](https://cxhauto.com/mcp?lang=zh)，可复制服务地址、配置和示例提问。[供智能体读取的说明](https://cxhauto.com/llms.txt)。
+
 **公开试用中。** [官方安装入口](https://www.cxhcf.com/mcp/workbuddy) · [网页查行情](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/cards.html) · [English](README.en.md)
 
 ## MCP 接入地址

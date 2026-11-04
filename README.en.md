@@ -1,6 +1,6 @@
-# Chexiaohua car-price Skill and MCP
+# Chexiaohua (车小花) — China Car Price & Trend Queries
 
-Query recent Chinese new- and used-car quotations through a compatible AI agent. Compare region- and configuration-specific observations, keeping wholesale quotes, retail asking prices and guide prices separate.
+Query China’s new- and used-car market prices and available historical price trends through a compatible AI agent. Compare region- and configuration-specific observations, keeping wholesale quotes, retail asking prices and guide prices separate.
 
 **Public beta.** [Official installation](https://www.cxhcf.com/mcp/workbuddy) · [Web query](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/cards.html) · [中文](README.md)
 

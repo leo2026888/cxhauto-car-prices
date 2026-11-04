@@ -1,6 +1,8 @@
-# 车小花·新车与二手车行情
+# 车小花 Chexiaohua｜中国新车与二手车行情走势查询
 
-在支持远程 MCP 的智能体里，用自然语言查询中国汽车近期报价。按车型、年款、配置与地区比较，同行批发、零售挂牌和指导价分开看。
+**中国汽车行情与走势查询 / China Car Price & Trend Queries**
+
+在支持远程 MCP 的智能体里，用自然语言查询中国新车、二手车近期报价与可用历史行情走势。按车型、年款、配置与地区比较，同行批发、零售挂牌和指导价分开看。
 
 **公开试用中。** [官方安装入口](https://www.cxhcf.com/mcp/workbuddy) · [网页查行情](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/cards.html) · [English](README.en.md)
 

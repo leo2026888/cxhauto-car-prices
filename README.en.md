@@ -1,6 +1,8 @@
-# Chexiaohua (车小花) — China Car Price & Trend Queries
+# CXH AUTO (车小花) — China New & Used Car Price Trends
 
 Query China’s new- and used-car market prices and available historical price trends through a compatible AI agent. Compare region- and configuration-specific observations, keeping wholesale quotes, retail asking prices and guide prices separate.
+
+Brand website: [CXH AUTO](https://cxhauto.com/).
 
 **Public beta.** [Official installation](https://www.cxhcf.com/mcp/workbuddy) · [Web query](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/cards.html) · [中文](README.md)
 
@@ -8,7 +10,7 @@ Remote MCP endpoint (Streamable HTTP):
 
 https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/mcp
 
-Try: “Use Chexiaohua to look up recent quotes for a used 2023 BMW 530Li in Hangzhou. Separate wholesale from retail and let me choose the trim.”
+Try: “Use CXH AUTO to look up recent quotes for a used 2023 BMW 530Li in Hangzhou. Separate wholesale from retail and let me choose the trim.”
 
 The [Skill](skills/cxh-car-quotes/SKILL.md) supplies usage instructions. Establishing the MCP connection is a separate step. First-time guests have a limited trial; allowance and membership are reported by the service. Client compatibility and post-login membership continuity are still being tested in some clients.
 

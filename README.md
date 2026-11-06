@@ -16,6 +16,8 @@ https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/mcp
 
 连接方式：Streamable HTTP。WorkBuddy 可按官方安装页选择个人配置；其他平台按其远程 MCP 连接器说明添加此地址。广场审核与平台支持以实际状态为准。
 
+已登记到 **官方 MCP Registry**：`io.github.leo2026888/cxhauto-car-prices`。[读取官方登记记录](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.leo2026888%2Fcxhauto-car-prices/versions/latest)。支持该目录的客户端可发现这条远程服务记录；首次接入仍按上方协议地址建立连接。WorkBuddy等平台的自有广场审核和客户端兼容性分别以实际状态为准。
+
 ## 试一句
 
 > 用车小花查杭州2023款宝马530Li近7天报价，批发、零售分开。有多个配置，先让我选择。

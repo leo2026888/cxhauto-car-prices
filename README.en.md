@@ -12,6 +12,8 @@ Remote MCP endpoint (Streamable HTTP):
 
 https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/mcp
 
+Listed in the **official MCP Registry** as `io.github.leo2026888/cxhauto-car-prices`: [read the public registry record](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.leo2026888%2Fcxhauto-car-prices/versions/latest). Clients that consume this registry can discover the remote service; connect using the Streamable HTTP endpoint above. Each platform's own marketplace approval and client compatibility are verified separately.
+
 Try: “Use CXH AUTO to look up recent quotes for a used 2023 BMW 530Li in Hangzhou. Separate wholesale from retail and let me choose the trim.”
 
 The [Skill](skills/cxh-car-quotes/SKILL.md) supplies usage instructions. Establishing the MCP connection is a separate step. First-time guests have a limited trial; allowance and membership are reported by the service. Client compatibility and post-login membership continuity are still being tested in some clients.

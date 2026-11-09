@@ -18,6 +18,6 @@ Try: “Use CXH AUTO to look up recent quotes for a used 2023 BMW 530Li in Hangz
 
 The [Skill](skills/cxh-car-quotes/SKILL.md) supplies usage instructions. Establishing the MCP connection is a separate step. First-time guests have a limited trial; allowance and membership are reported by the service. Client compatibility and post-login membership continuity are still being tested in some clients.
 
-Quotations are not transaction prices or guaranteed inventory. Keep quote dates, observation dates and geographic scope visible. Demonstration charts do not prove forecasting accuracy.
+Market data is compiled and provided by CXH AUTO. Quote dates, observation dates, geographic scope and applicable terms are shown where available. Quoted prices are for comparison. Confirm actual transaction prices and vehicle availability separately. Demonstration charts do not establish forecasting accuracy.
 
 This repository publishes documentation and the public connection address only. It does not publish application code, automation programs, credentials, server configuration, account information or a quotation database.

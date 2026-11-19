@@ -6,13 +6,15 @@ Brand website: [CXH AUTO](https://cxhauto.com/).
 
 International setup page: [AI / MCP — China car price trends](https://cxhauto.com/mcp?lang=en), with a copyable service URL, configuration and example prompt. [Information for AI assistants](https://cxhauto.com/llms.txt).
 
-**Public beta.** [Official installation](https://www.cxhcf.com/mcp/workbuddy) · [Web query](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/cards.html) · [中文](README.md)
+**Public beta.** Open the setup page for your client. [WorkBuddy](https://www.cxhcf.com/mcp/workbuddy) · [Qwen Work](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/connect.html?client=qwenwork) · [Doubao Work](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/connect.html?client=doubaowork) · [Search in your browser](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/cards.html) · [中文](README.md)
 
 Remote MCP endpoint (Streamable HTTP):
 
 https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/mcp
 
 Listed in the **official MCP Registry** as `io.github.leo2026888/cxhauto-car-prices`: [read the public registry record](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.leo2026888%2Fcxhauto-car-prices/versions/latest). Clients that consume this registry can discover the remote service; connect using the Streamable HTTP endpoint above. Each platform's own marketplace approval and client compatibility are verified separately.
+
+After importing and enabling the connector, submit the query below in your client. Other clients with remote MCP support can add the Streamable HTTP endpoint manually.
 
 Try: “Use CXH AUTO to look up recent quotes for a used 2023 BMW 530Li in Hangzhou. Separate wholesale from retail and let me choose the trim.”
 

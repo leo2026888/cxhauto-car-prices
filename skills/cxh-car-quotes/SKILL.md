@@ -17,6 +17,6 @@ description: 使用车小花 CXH AUTO查询中国新车与二手车行情和可�
 
 MCP公开地址：https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/mcp
 
-安装说明：https://www.cxhcf.com/mcp/workbuddy
+按当前客户端打开接入说明。[WorkBuddy](https://www.cxhcf.com/mcp/workbuddy) · [千问办公](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/connect.html?client=qwenwork) · [豆包工作](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/connect.html?client=doubaowork)
 
 本技能仅提供使用指引，不包含应用代码、账号凭据、服务器资料或行情数据库。

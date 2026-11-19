@@ -8,13 +8,13 @@
 
 国际站接入入口：[AI / MCP · 中国汽车行情](https://cxhauto.com/mcp?lang=zh)，可复制服务地址、配置和示例提问。[供智能体读取的说明](https://cxhauto.com/llms.txt)。
 
-**公开试用中。** [官方安装入口](https://www.cxhcf.com/mcp/workbuddy) · [网页查行情](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/cards.html) · [English](README.en.md)
+**公开试用中。** 按所用客户端打开接入页。[WorkBuddy](https://www.cxhcf.com/mcp/workbuddy) · [千问办公](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/connect.html?client=qwenwork) · [豆包工作](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/connect.html?client=doubaowork) · [网页查行情](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/cards.html) · [English](README.en.md)
 
 ## MCP 接入地址
 
 https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/mcp
 
-连接方式：Streamable HTTP。WorkBuddy 可按官方安装页选择个人配置；其他平台按其远程 MCP 连接器说明添加此地址。广场审核与平台支持以实际状态为准。
+连接使用 Streamable HTTP。WorkBuddy 可在接入页选择个人配置，千问办公和豆包工作可进入各自接入页下载配置。保存并启用后，回到所用客户端提交下面的查询。其他支持远程 MCP 的客户端可手动添加上方协议地址。各平台的广场审核与客户端支持以实际状态为准。
 
 已登记到 **官方 MCP Registry**：`io.github.leo2026888/cxhauto-car-prices`。[读取官方登记记录](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.leo2026888%2Fcxhauto-car-prices/versions/latest)。支持该目录的客户端可发现这条远程服务记录；首次接入仍按上方协议地址建立连接。WorkBuddy等平台的自有广场审核和客户端兼容性分别以实际状态为准。
 

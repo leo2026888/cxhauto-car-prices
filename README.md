@@ -18,9 +18,14 @@ https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/mcp
 
 已登记到 **官方 MCP Registry**：`io.github.leo2026888/cxhauto-car-prices`。[读取官方登记记录](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.leo2026888%2Fcxhauto-car-prices/versions/latest)。支持该目录的客户端可发现这条远程服务记录；首次接入仍按上方协议地址建立连接。WorkBuddy等平台的自有广场审核和客户端兼容性分别以实际状态为准。
 
-## 试一句
+## 已登录或已开通会员
 
-> 用车小花查杭州2023款宝马530Li近7天报价，批发、零售分开。有多个配置，先让我选择。
+在原对话发送「用车小花核验我的账号和会员权益，确认可以查询后，按原条件继续查刚才那辆车」。如仍显示游客，先从当前客户端接续：[WorkBuddy](https://www.cxhcf.com/mcp/workbuddy) · [千问办公](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/connect.html?client=qwenwork#account) · [豆包工作](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/connect.html?client=doubaowork#account)。手动配置时只更新已有车小花连接。授权后回原对话，按 get_access_status 返回的权益续查。
+
+## 首次查车
+
+- 买新车：「用车小花查南京 2027 款丰田凯美瑞 2.0E 精英版近 7 天的门店优惠价和指导价。分开列出并注明日期与优惠条件。」
+- 查二手车：「用车小花查杭州 2023 款宝马 530Li 近 7 天报价，同行批发和零售挂牌分开。有多个配置时先让我选；缺少同条件报价时列出有证据的参考并标明差异。」
 
 接着可以说“换成广州”“只看2022款”或“查丰田荣放新车”。已明确的条件应保留，年款与上牌年份分别理解。
 

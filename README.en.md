@@ -16,7 +16,14 @@ Listed in the **official MCP Registry** as `io.github.leo2026888/cxhauto-car-pri
 
 After importing and enabling the connector, submit the query below in your client. Other clients with remote MCP support can add the Streamable HTTP endpoint manually.
 
-Try: “Use CXH AUTO to look up recent quotes for a used 2023 BMW 530Li in Hangzhou. Separate wholesale from retail and let me choose the trim.”
+## Continue with your existing membership
+
+In the original chat, ask “Use CXH AUTO to check my account and membership. If my account can make queries, continue with the same vehicle and filters.” If the connector still shows guest access, use the account setup for the client you were using. [WorkBuddy](https://www.cxhcf.com/mcp/workbuddy) · [Qwen Work](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/connect.html?client=qwenwork#account) · [Doubao Work](https://clue.cxhcf.com/localCarBusinessIntranet/quotesWeb/connect.html?client=doubaowork#account). If manual setup is needed, update the existing CXH AUTO connection. After authorizing it, return to the original chat and rely on the entitlement returned by get_access_status.
+
+## First vehicle query
+
+- New car: “Use CXH AUTO to compare dealer offers and the guide price for a new 2027 Toyota Camry 2.0E Elite in Nanjing over the past seven days. Include dates and offer conditions.”
+- Used car: “Use CXH AUTO to look up seven days of quotes for a used 2023 BMW 530Li in Hangzhou. List wholesale and retail asking prices separately, and let me choose the trim. If the exact criteria yield no quotes, label any supported comparison with the differences.”
 
 The [Skill](skills/cxh-car-quotes/SKILL.md) supplies usage instructions. Establishing the MCP connection is a separate step. First-time guests have a limited trial; allowance and membership are reported by the service. Client compatibility and post-login membership continuity are still being tested in some clients.
 
